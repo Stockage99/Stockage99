@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Stockage99
+- 👀 Je suis intéressé par la création d'un exemple pour un projet informatique.
+- GIt installé sur un poste Windows et sur un poste Linux UBUNTU; partage et synchronisation via GITHUB
